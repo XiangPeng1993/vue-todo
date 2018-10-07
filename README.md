@@ -9,8 +9,12 @@ git clone https://github.com/Jokcy/vue-todo-tech.git
 ```
 npm install
 ```
-然后执行
+然后执行(运行todo应用)
 ```
 npm run dev
+```
+然后执行(运行练习demo)
+```
+npm run practice
 ```
 开始开发项目
